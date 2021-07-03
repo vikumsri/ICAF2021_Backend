@@ -1,0 +1,1 @@
+export var mongoUri = 'mongodb+srv://root:root@cluster0.pikdq.mongodb.net/icafDB?retryWrites=true&w=majority'
